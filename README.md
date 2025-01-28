@@ -1,4 +1,4 @@
-**SIMPLIFIED STRATEGO**
+##SIMPLIFIED STRATEGO
 
 **Project Overview**
 This project is a Python-based simulation of the classic board game Stratego, designed with a simplified 8x8 board and 16 pieces per player. The primary objective was to create an engaging gameplay experience by incorporating Artificial Intelligence (AI) elements, leveraging a combination of genetic algorithms for AI setup and rule-based heuristics for decision-making during gameplay.
