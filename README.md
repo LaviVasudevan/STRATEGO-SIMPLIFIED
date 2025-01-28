@@ -26,6 +26,8 @@ Gameplay:
 - Bombs are immobile and destroy any piece that moves onto their square, except for Miners.
 - The game ends when a player captures the opponent's Flag or eliminates all movable pieces.
 
+![Screenshot 2025-01-28 203514](https://github.com/user-attachments/assets/a3217367-0db9-4162-9a2e-e9d09b329337)
+
 Special Rules:
 
 - The Spy can defeat only the highest-ranked piece, the Marshal.
@@ -37,3 +39,6 @@ Combined Approach:
 
 - Genetic algorithms handle static initial setup. It evaluates diverse setups and selects the best configurations.
 - Rule-based heuristics manage real-time gameplay decisions and tactical responses to combat scenarios.
+
+![Screenshot 2025-01-28 203422](https://github.com/user-attachments/assets/b38b6460-9f43-46a6-82f7-974f4d38346c)
+
